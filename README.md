@@ -1,7 +1,7 @@
 # Smart Assist: YOLO-Based Object Detection for the Visually Impaired
 
 ## 📌 Project Overview
-**Smart Assist** is an AI-powered assistive system that helps visually impaired individuals navigate their surroundings. It uses **YOLO (You Only Look Once) object detection** to recognize objects in real-time and provides **audio feedback** to the user. This project enhances independent mobility and accessibility through the integration of **computer vision and text-to-speech (TTS) technologies**.
+**Vision Partner** is an AI-powered assistive system that helps visually impaired individuals navigate their surroundings. It uses **YOLO (You Only Look Once) object detection** to recognize objects in real-time and provides **audio feedback** to the user. This project enhances independent mobility and accessibility through the integration of **computer vision and text-to-speech (TTS) technologies**.
 
 ## 🚀 Features
 - 🎯 **Real-time object detection** using YOLOv4/YOLOv5  
@@ -15,7 +15,6 @@
 - **Python** – OpenCV, TensorFlow/PyTorch  
 - **Computer Vision** – Real-time image processing  
 - **Text-to-Speech (TTS)** – gTTS or Google Cloud TTS  
-- **Hardware (Optional)** – Raspberry Pi, Camera Module  
 
 ## 📥 Installation & Setup
 ### 1️⃣ Clone the Repository  
